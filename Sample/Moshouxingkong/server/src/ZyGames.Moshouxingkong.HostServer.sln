@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyGames.Moshouxingkong.HostServer", "ZyGames.Moshouxingkong.HostServer\ZyGames.Moshouxingkong.HostServer.csproj", "{2318853E-7825-48A0-A87D-D8CD9E4313E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyGames.Moshouxingkong.Model", "ZyGames.Moshouxingkong.Model\ZyGames.Moshouxingkong.Model.csproj", "{D1E841D2-A599-420C-AE44-58AAC76BAFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyGames.Moshouxingkong.Lang", "ZyGames.Moshouxingkong.Lang\ZyGames.Moshouxingkong.Lang.csproj", "{682A6154-BB7A-4D96-9216-C4EE463EC16D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyGames.Moshouxingkong.Bll", "ZyGames.Moshouxingkong.Bll\ZyGames.Moshouxingkong.Bll.csproj", "{46704DD0-D0F2-4561-8413-6B565A349180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2318853E-7825-48A0-A87D-D8CD9E4313E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2318853E-7825-48A0-A87D-D8CD9E4313E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2318853E-7825-48A0-A87D-D8CD9E4313E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2318853E-7825-48A0-A87D-D8CD9E4313E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E841D2-A599-420C-AE44-58AAC76BAFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E841D2-A599-420C-AE44-58AAC76BAFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E841D2-A599-420C-AE44-58AAC76BAFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E841D2-A599-420C-AE44-58AAC76BAFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682A6154-BB7A-4D96-9216-C4EE463EC16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682A6154-BB7A-4D96-9216-C4EE463EC16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682A6154-BB7A-4D96-9216-C4EE463EC16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682A6154-BB7A-4D96-9216-C4EE463EC16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46704DD0-D0F2-4561-8413-6B565A349180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46704DD0-D0F2-4561-8413-6B565A349180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46704DD0-D0F2-4561-8413-6B565A349180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46704DD0-D0F2-4561-8413-6B565A349180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

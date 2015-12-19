@@ -1,0 +1,6 @@
+AcceptCompleted method error:System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.b()
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.i(SocketAsyncEventArgs A_0)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.b(Object A_0, SocketAsyncEventArgs A_1)

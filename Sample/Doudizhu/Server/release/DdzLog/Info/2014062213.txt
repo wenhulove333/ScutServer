@@ -1,0 +1,54 @@
+Time:2014/6/22 13:08:00-清理过期缓存结束...
+
+
+Time:2014/6/22 13:09:15-CacheFactory listen has stoped
+
+
+Time:2014/6/22 13:09:21-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/6/22 13:09:21-Trace>>CSharp Script script successfully compiled.
+
+
+Time:2014/6/22 13:09:21-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Remote
+
+
+Time:2014/6/22 13:09:22-CacheFactory listen has started...
+
+
+Time:2014/6/22 13:09:22-正在加载玩家数据...
+
+
+Time:2014/6/22 13:09:22-正在加载玩家结束
+
+
+Time:2014/6/22 13:09:22-Trace>>The data:"ZyGames.Doudizhu.Model.ConfigEnvSet" has been loaded 14.
+
+
+Time:2014/6/22 13:09:22-The ranking refresh is start...
+
+
+Time:2014/6/22 13:09:22-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/6/22 13:09:22-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/6/22 13:09:22-The ranking refresh is end.
+
+
+Time:2014/6/22 13:19:40-清理过期缓存结束...
+
+
+Time:2014/6/22 13:29:40-清理过期缓存结束...
+
+
+Time:2014/6/22 13:39:41-清理过期缓存结束...
+
+
+Time:2014/6/22 13:49:41-清理过期缓存结束...
+
+
+Time:2014/6/22 13:59:41-清理过期缓存结束...
+
+

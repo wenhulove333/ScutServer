@@ -1,0 +1,138 @@
+Time:2014/6/22 12:28:14-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/6/22 12:28:14-Trace>>CSharp Script script successfully compiled.
+
+
+Time:2014/6/22 12:28:16-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Remote
+
+
+Time:2014/6/22 12:28:35-CacheFactory listen has started...
+
+
+Time:2014/6/22 12:28:35-正在加载玩家数据...
+
+
+Time:2014/6/22 12:28:35-正在加载玩家结束
+
+
+Time:2014/6/22 12:28:54-The ranking refresh is start...
+
+
+Time:2014/6/22 12:28:54-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:28:54-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:28:54-The ranking refresh is end.
+
+
+Time:2014/6/22 12:31:05-CacheFactory listen has stoped
+
+
+Time:2014/6/22 12:32:04-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/6/22 12:32:04-Trace>>CSharp Script script successfully compiled.
+
+
+Time:2014/6/22 12:32:05-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Remote
+
+
+Time:2014/6/22 12:35:14-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/6/22 12:35:14-Trace>>CSharp Script script successfully compiled.
+
+
+Time:2014/6/22 12:35:15-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Remote
+
+
+Time:2014/6/22 12:35:33-CacheFactory listen has started...
+
+
+Time:2014/6/22 12:35:33-正在加载玩家数据...
+
+
+Time:2014/6/22 12:35:33-正在加载玩家结束
+
+
+Time:2014/6/22 12:35:52-The ranking refresh is start...
+
+
+Time:2014/6/22 12:35:52-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:35:52-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:35:52-The ranking refresh is end.
+
+
+Time:2014/6/22 12:41:35-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/6/22 12:41:35-Trace>>CSharp Script script successfully compiled.
+
+
+Time:2014/6/22 12:41:35-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Remote
+
+
+Time:2014/6/22 12:41:54-CacheFactory listen has started...
+
+
+Time:2014/6/22 12:41:54-正在加载玩家数据...
+
+
+Time:2014/6/22 12:41:54-正在加载玩家结束
+
+
+Time:2014/6/22 12:42:12-The ranking refresh is start...
+
+
+Time:2014/6/22 12:42:12-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:42:12-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:42:12-The ranking refresh is end.
+
+
+Time:2014/6/22 12:47:50-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/6/22 12:47:50-Trace>>CSharp Script script successfully compiled.
+
+
+Time:2014/6/22 12:47:50-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\release\PyScript\Remote
+
+
+Time:2014/6/22 12:47:51-CacheFactory listen has started...
+
+
+Time:2014/6/22 12:47:51-正在加载玩家数据...
+
+
+Time:2014/6/22 12:47:51-正在加载玩家结束
+
+
+Time:2014/6/22 12:47:51-Trace>>The data:"ZyGames.Doudizhu.Model.ConfigEnvSet" has been loaded 14.
+
+
+Time:2014/6/22 12:47:51-The ranking refresh is start...
+
+
+Time:2014/6/22 12:47:51-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:47:51-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/6/22 12:47:51-The ranking refresh is end.
+
+
+Time:2014/6/22 12:58:00-清理过期缓存结束...
+
+

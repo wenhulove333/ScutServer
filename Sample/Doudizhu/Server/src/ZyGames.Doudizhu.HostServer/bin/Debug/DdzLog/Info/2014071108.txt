@@ -1,0 +1,24 @@
+Time:2014/7/11 8:04:28-Trace>>The data:"ZyGames.Doudizhu.Model.UserNickName" has been loaded 1.
+
+
+Time:2014/7/11 8:04:35-Trace>>The data:"ZyGames.Doudizhu.Model.RoomInfo" has been loaded 4.
+
+
+Time:2014/7/11 8:05:55-Trace>>The data:"ZyGames.Doudizhu.Model.TitleInfo" has been loaded 18.
+
+
+Time:2014/7/11 8:06:11-Trace>>The data:"ZyGames.Doudizhu.Model.ShopInfo" has been loaded 24.
+
+
+Time:2014/7/11 8:06:41-Trace>>The data:"ZyGames.Doudizhu.Model.DialInfo" has been loaded 10.
+
+
+Time:2014/7/11 8:06:57-Trace>>The data:"ZyGames.Doudizhu.Model.PokerInfo" has been loaded 54.
+
+
+Time:2014/7/11 8:08:10-清理过期缓存结束...
+
+
+Time:2014/7/11 8:10:50-Trace>>The data:"ZyGames.Doudizhu.Model.TaskInfo" has been loaded 20.
+
+

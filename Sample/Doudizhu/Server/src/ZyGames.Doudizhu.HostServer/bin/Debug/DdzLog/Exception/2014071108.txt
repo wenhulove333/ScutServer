@@ -1,0 +1,11 @@
+Time:2014/7/11 8:07:05-Trace>>FindEntityFromRedis ZyGames.Doudizhu.Model.UserNickName error:System.ArgumentNullException: 值不能为 null。
+参数名: value
+   在 ProtoBuf.NetObjectCache.SetKeyedObject(Int32 key, Object value)
+   在 ProtoBuf.ProtoWriter.SetRootObject(Object value)
+   在 ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.a(Object A_0, Boolean A_1)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Serialize(Object obj, Boolean autoUseGzip)
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.a(al A_0, RedisClient A_1, Byte[][] A_2, Byte[][] A_3)
+
+

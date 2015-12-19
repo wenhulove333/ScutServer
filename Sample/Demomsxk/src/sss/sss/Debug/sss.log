@@ -1,0 +1,20 @@
+﻿Build started 2014/9/4 13:12:22.
+     1>Project "E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\sss\sss.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\sss.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 22222.c
+         22222.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\Debug\sss.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sss.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\Debug\sss.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\Debug\sss.lib" /MACHINE:X86 Debug\22222.obj
+         sss.vcxproj -> E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\Debug\sss.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\Debug\sss.exe;#1" /manifest Debug\sss.exe.intermediate.manifest
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(562,5): error MSB6006: "mt.exe" exited with code 31.
+     1>Done Building Project "E:\SS\02_scut\Scut\Sample\Demomsxk\src\sss\sss\sss.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.17

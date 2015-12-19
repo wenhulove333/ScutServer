@@ -1,0 +1,6 @@
+Time:2014/8/9 11:20:08-CacheFactory listen has started...
+
+
+Time:2014/8/9 11:32:54-CacheFactory listen has started...
+
+

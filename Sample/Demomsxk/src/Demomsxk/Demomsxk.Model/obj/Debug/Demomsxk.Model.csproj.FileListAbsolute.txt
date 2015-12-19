@@ -1,0 +1,6 @@
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Model\bin\Debug\Demomsxk.Model.dll
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Model\bin\Debug\Demomsxk.Model.pdb
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Model\bin\Debug\protobuf-net.dll
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Model\obj\Debug\Demomsxk.Model.csprojResolveAssemblyReference.cache
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Model\obj\Debug\Demomsxk.Model.dll
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Model\obj\Debug\Demomsxk.Model.pdb

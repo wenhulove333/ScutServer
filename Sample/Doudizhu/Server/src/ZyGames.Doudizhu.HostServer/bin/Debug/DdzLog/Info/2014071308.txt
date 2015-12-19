@@ -1,0 +1,30 @@
+Time:2014/7/13 8:02:18-清理过期缓存结束...
+
+
+Time:2014/7/13 8:12:19-清理过期缓存结束...
+
+
+Time:2014/7/13 8:22:19-清理过期缓存结束...
+
+
+Time:2014/7/13 8:32:19-清理过期缓存结束...
+
+
+Time:2014/7/13 8:42:20-清理过期缓存结束...
+
+
+Time:2014/7/13 8:44:20-The ranking refresh is start...
+
+
+Time:2014/7/13 8:44:20-Trace>>The BeansRanking has be loaded, count:2
+
+
+Time:2014/7/13 8:44:20-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/7/13 8:44:20-The ranking refresh is end.
+
+
+Time:2014/7/13 8:52:20-清理过期缓存结束...
+
+

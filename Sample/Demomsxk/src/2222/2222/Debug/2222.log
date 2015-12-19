@@ -1,0 +1,14 @@
+﻿Build started 2014/9/4 13:10:55.
+     1>Project "E:\SS\02_scut\Scut\Sample\Demomsxk\src\2222\2222\2222.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\SS\02_scut\Scut\Sample\Demomsxk\src\2222\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\2222.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TC /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt 222.c /clr:nostdlib 
+     1>cl : Command line error D8045: cannot compile C file '222.c' with the /clr option
+     1>Done Building Project "E:\SS\02_scut\Scut\Sample\Demomsxk\src\2222\2222\2222.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.26

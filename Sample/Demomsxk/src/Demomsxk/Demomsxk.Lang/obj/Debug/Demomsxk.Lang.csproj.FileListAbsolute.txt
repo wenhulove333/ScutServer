@@ -1,0 +1,3 @@
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Lang\obj\Debug\Demomsxk.Lang.csprojResolveAssemblyReference.cache
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Lang\obj\Debug\Demomsxk.Lang.Properties.Resources.resources
+E:\SS\02_scut\Scut\Sample\Demomsxk\src\Demomsxk\Demomsxk.Lang\obj\Debug\Demomsxk.Lang.csproj.GenerateResource.Cache

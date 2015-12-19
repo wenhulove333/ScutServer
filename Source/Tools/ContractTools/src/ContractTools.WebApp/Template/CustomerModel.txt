@@ -1,0 +1,17 @@
+﻿--##Description##（ID=##ID##）
+function Action##ID##(currScene, isLoading##Parameter##)
+    ZyWriter:writeString("ActionId",##ID##)##Fixed##
+
+    ZyExecRequest(currScene, nil, isLoading)
+end
+
+function _##ID##Callback(currScene, lpExternalData)
+    local DataTabel = nil
+    if ZyReader:getResult() == eZyNetSuccess then
+        DataTabel = {}
+##Judge##
+    else
+        ZyToast.show(currScene, ZyReader:readErrorMsg())
+    end
+    return DataTabel
+end

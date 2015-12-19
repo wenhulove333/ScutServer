@@ -1,0 +1,87 @@
+Time:2014/7/26 10:43:56-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/7/26 10:43:57-Trace>>CSharp CsScript script successfully compiled.
+
+
+Time:2014/7/26 10:43:59-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Remote
+
+
+Time:2014/7/26 10:44:01-CacheFactory listen has started...
+
+
+Time:2014/7/26 10:44:02-正在加载玩家数据...
+
+
+Time:2014/7/26 10:44:03-正在加载玩家结束
+
+
+Time:2014/7/26 10:44:04-Trace>>The data:"ZyGames.Doudizhu.Model.ConfigEnvSet" has been loaded 14.
+
+
+Time:2014/7/26 10:44:04-The ranking refresh is start...
+
+
+Time:2014/7/26 10:44:04-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/7/26 10:44:04-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/7/26 10:44:04-The ranking refresh is end.
+
+
+Time:2014/7/26 10:44:48-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2014/7/26 10:44:48-Trace>>CSharp CsScript script successfully compiled.
+
+
+Time:2014/7/26 10:44:48-Trace>>The py path:*;E:\SS\01_programinstall\Python27\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Lib;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Action;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Logic;E:\SS\02_scut\Scut\Sample\Doudizhu\Server\src\ZyGames.Doudizhu.HostServer\bin\Debug\Script\PyScript\Remote
+
+
+Time:2014/7/26 10:44:48-CacheFactory listen has started...
+
+
+Time:2014/7/26 10:44:49-正在加载玩家数据...
+
+
+Time:2014/7/26 10:44:49-正在加载玩家结束
+
+
+Time:2014/7/26 10:44:49-Trace>>The data:"ZyGames.Doudizhu.Model.ConfigEnvSet" has been loaded 14.
+
+
+Time:2014/7/26 10:44:49-The ranking refresh is start...
+
+
+Time:2014/7/26 10:44:49-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2014/7/26 10:44:49-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2014/7/26 10:44:49-The ranking refresh is end.
+
+
+Time:2014/7/26 10:51:56-Trace>>The data:"ZyGames.Doudizhu.Model.UserNickName" has been loaded 2.
+
+
+Time:2014/7/26 10:52:00-Trace>>The data:"ZyGames.Doudizhu.Model.RoomInfo" has been loaded 4.
+
+
+Time:2014/7/26 10:52:00-Trace>>The data:"ZyGames.Doudizhu.Model.TitleInfo" has been loaded 18.
+
+
+Time:2014/7/26 10:52:11-Trace>>The data:"ZyGames.Doudizhu.Model.ShopInfo" has been loaded 24.
+
+
+Time:2014/7/26 10:53:16-Trace>>The data:"ZyGames.Doudizhu.Model.TaskInfo" has been loaded 20.
+
+
+Time:2014/7/26 10:53:48-Trace>>The data:"ZyGames.Doudizhu.Model.DialInfo" has been loaded 10.
+
+
+Time:2014/7/26 10:55:00-清理过期缓存结束...
+
+
